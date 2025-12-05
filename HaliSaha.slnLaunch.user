@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HaliSaha\\HaliSaha.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HaliSahaAPI\\HaliSahaAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
